@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/VR_Apartment_Australia/Scenes/SceneGame.unity
+- path: Assets/Studio Apartment 2/Overview Map.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
