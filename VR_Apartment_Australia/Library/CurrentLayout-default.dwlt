@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 392}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 60
+  controlID: 79
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -122,10 +122,10 @@ MonoBehaviour:
     y: 0
     width: 414
     height: 947
-  m_MinSize: {x: 276, y: 312}
+  m_MinSize: {x: 391, y: 652}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 154
+  controlID: 35
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,10 +241,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 709, y: 392}
+  m_MinSize: {x: 824, y: 652}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 15
+  controlID: 34
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -286,7 +286,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: InspectorWindow
+  m_Name: LightingWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -295,14 +295,14 @@ MonoBehaviour:
     y: 0
     width: 414
     height: 498
-  m_MinSize: {x: 276, y: 71}
+  m_MinSize: {x: 391, y: 411}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 23}
+  m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
   - {fileID: 23}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,24 +331,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 48d5faff
-      m_LastClickedID: -338616
-      m_ExpandedIDs: ea12f2ffde9ff2ffbab1f2ff92f4f4ffd474f5ff0080f6ffd6a1f6ff18c6f6ff3051f7ff2800faff2e00faff3400faff3a00faff4000faff4600faff4e00faff5400faff5a00faff6000faff6600faff6c00faff7200faff7800faff7e00faffa400faffe03dfaff1ccffaff5e3dfcff0e2bfeff8e58fefff433ffff9464ffff5895ffff6ab5ffff00fbffff
+      scrollPos: {x: 0, y: 1062}
+      m_SelectedIDs: 24faffff
+      m_LastClickedID: -1500
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: MesaComedor
-        m_OriginalName: MesaComedor
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -2954
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 2}
       m_SearchString: 
@@ -484,9 +484,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.3566328, y: 2.7544174, z: -13.5493355}
+    m_Target: {x: -0.21632153, y: 4.9055037, z: -13.310354}
     speed: 2
-    m_Value: {x: 1.3566328, y: 2.7544174, z: -13.5493355}
+    m_Value: {x: -0.21632153, y: 4.9055037, z: -13.310354}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -532,13 +532,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.29368675, y: 0.14040826, z: -0.044126984, w: -0.94460833}
+    m_Target: {x: 0.052841615, y: -0.36578438, z: 0.021313028, w: 0.9290673}
     speed: 2
-    m_Value: {x: -0.29507405, y: 0.14032798, z: -0.044333234, w: -0.9440731}
+    m_Value: {x: 0.05280402, y: -0.3671389, z: 0.021390013, w: 0.92841977}
   m_Size:
     m_Target: 0.1318844
     speed: 2
-    m_Value: 0.4318844
+    m_Value: 0.1318844
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -759,7 +759,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 523a0000
     m_LastClickedID: 14930
-    m_ExpandedIDs: 0000000024410000384a00003a4a00003c4a00003e4a0000404a0000424a0000444a0000464a0000484a00004a4a00004c4a00004e4a0000504a0000524a0000
+    m_ExpandedIDs: 00000000244100007e54000080540000825400008454000086540000885400008a540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -787,21 +787,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000024410000384a00003a4a00003c4a0000424a00004a4a00004c4a0000ac4a0000
+    m_ExpandedIDs: ffffffff00000000244100007e54000080540000825400008454000086540000885400008a540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Cloth_3
-      m_OriginalName: Cloth_3
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 26794
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
