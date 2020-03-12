@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 7}
-  m_MinSize: {x: 875, y: 702}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 392}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 79
+  controlID: 17
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 391, y: 652}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 35
+  controlID: 145
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,7 +174,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 702}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &8
 MonoBehaviour:
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 824, y: 652}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 34
+  controlID: 144
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,10 +331,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 1062}
-      m_SelectedIDs: 24faffff
-      m_LastClickedID: -1500
-      m_ExpandedIDs: 70fbffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: dce3ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -484,9 +484,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.21632153, y: 4.9055037, z: -13.310354}
+    m_Target: {x: -0.52398044, y: 4.292245, z: -16.269398}
     speed: 2
-    m_Value: {x: -0.21632153, y: 4.9055037, z: -13.310354}
+    m_Value: {x: -0.52398044, y: 4.292245, z: -16.269398}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -532,13 +532,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.052841615, y: -0.36578438, z: 0.021313028, w: 0.9290673}
+    m_Target: {x: -0.11081202, y: -0.030043533, z: 0.0010657721, w: -0.9935542}
     speed: 2
-    m_Value: {x: 0.05280402, y: -0.3671389, z: 0.021390013, w: 0.92841977}
+    m_Value: {x: -0.11079186, y: -0.031528585, z: 0.0012317839, w: -0.9933427}
   m_Size:
-    m_Target: 0.1318844
+    m_Target: 3.131884
     speed: 2
-    m_Value: 0.1318844
+    m_Value: 2.8318841
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -746,8 +746,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/VR_Apartment_Australia/Model/Scandinavian Interior Archviz/Prefabs/Books
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
@@ -759,7 +758,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 523a0000
     m_LastClickedID: 14930
-    m_ExpandedIDs: 00000000244100007e54000080540000825400008454000086540000885400008a540000
+    m_ExpandedIDs: 000000005c410000ba540000bc540000be540000c0540000c2540000c4540000c6540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -787,7 +786,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000244100007e54000080540000825400008454000086540000885400008a540000
+    m_ExpandedIDs: ffffffff000000005c410000ba540000bc540000be540000c0540000c2540000c4540000c6540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
