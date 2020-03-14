@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 432, y: 273}
   m_MaxSize: {x: 14002, y: 10023}
   vertical: 0
-  controlID: 127
+  controlID: 131
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -217,7 +217,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 221}
   m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-  controlID: 102
+  controlID: 107
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -363,9 +363,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.860309, y: 3.9173255, z: -18.052225}
+    m_Target: {x: 3.8088775, y: 5.960785, z: 12.812041}
     speed: 2
-    m_Value: {x: 7.860309, y: 3.9173255, z: -18.052225}
+    m_Value: {x: 3.8088775, y: 5.960785, z: 12.812041}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -411,13 +411,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.09619468, y: -0.6679128, z: 0.08764833, w: -0.73285115}
+    m_Target: {x: 0.1878928, y: 0.6828999, z: -0.18865755, w: 0.68033123}
     speed: 2
-    m_Value: {x: -0.09225355, y: -0.67374283, z: 0.08533094, w: -0.7282022}
+    m_Value: {x: 0.18844867, y: 0.6808224, z: -0.18808378, w: 0.68234336}
   m_Size:
-    m_Target: 8.44081
+    m_Target: 1.7814728
     speed: 2
-    m_Value: 8.838545
+    m_Value: 1.7814738
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -570,7 +570,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/VR_Apartment_Australia/Model/Studio Apartment 2/Meshes/Materials
+    - Assets/VR_Apartment_Australia/Scenes
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
@@ -582,7 +582,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 523a0000
     m_LastClickedID: 14930
-    m_ExpandedIDs: 0000000054410000364f0000384f00003a4f00003c4f00003e4f0000404f0000424f0000444f0000464f0000484f00004a4f00004c4f00004e4f0000504f0000524f0000544f0000564f0000
+    m_ExpandedIDs: 0000000054410000444f0000464f0000484f00004a4f00004c4f00004e4f0000504f0000524f0000544f0000564f0000584f00005a4f00005c4f00005e4f0000604f0000624f0000644f0000664f0000684f00006a4f00006c4f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -607,24 +607,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 165}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000054410000364f0000384f00003a4f00003c4f00003e4f0000404f0000424f0000444f0000464f0000484f00004c4f00004e4f0000504f0000524f0000544f0000165200002a5200002c5200002e52000030520000325200003452000036520000f46d0000
+    m_ExpandedIDs: ffffffff0000000054410000444f0000464f0000484f00004a4f00004c4f00004e4f0000504f0000524f0000544f0000584f00005c4f00005e4f0000604f0000624f0000644f0000664f0000684f00006a4f00006c4f0000a6510000ac51000044520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: ti4peivl_8K_Albedo
-      m_OriginalName: ti4peivl_8K_Albedo
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 20906
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 3}
     m_SearchString: 
@@ -805,7 +805,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_ExpandedIDs: cc63ffffdc7effff1a90ffffe0a2ffff08b0ffff36bbffffb6c1ffff5ed8ffff24daffff3edfffff5cf5ffff70fbfffff662000006630000a86600005e9100006e91000010950000faa000000aa10000aca400007ca700005aa80000b8d000005ad40000ead40000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
